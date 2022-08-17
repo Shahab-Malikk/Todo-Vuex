@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "2",
+      "title": "Doctor's Appointment",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Coding Time",
+      "completed": false
+    },
+    {
+      "title": "Planting",
+      "completed": false,
+      "id": "WlexM10"
+    }
+  ]
+}
